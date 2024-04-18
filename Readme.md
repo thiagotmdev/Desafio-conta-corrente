@@ -1,1 +1,1 @@
-# Deesafio conta corrente do programa One Alura + Oracle.
+# Desafio conta corrente do programa One Alura + Oracle.
